@@ -3,8 +3,8 @@ layout: list
 title: Link
 slug: link
 menu: true
-submenu: false
-order: 8
+submenu: true
+order: 6
 description: >
-  수업  
+  즐겨찾기  
 ---
